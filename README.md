@@ -1,18 +1,76 @@
-<p align="center">
-	<a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
-	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-	<a href="https://scholar.google.com/citations?user=2GYttqUAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Citations"></a>
-	<a href="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat-qr-code.png"><img src="imgs/wechat.svg" alt="微信"></a>
-</p>
+### hey there 
+<a href="https://www.instagram.com/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+<br />
+
+hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💬 ask me about anything, i am happy to help;
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   45 hrs 57 mins  ████████████████████████░   95.94 %
+JavaScript   1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+JSON         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+GraphQL      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
+<!--END_SECTION:waka-->
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  7,995 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
-Yuan is a founding engineer at [Akuity](https://akuity.io/). Previously, he was a senior software engineer at [Alibaba Group](https://www.alibabagroup.com/), building AI infrastructure and AutoML platform. He's a co-chair of [Kubeflow](https://github.com/kubeflow), maintainer of [TensorFlow](https://github.com/tensorflow/tensorflow) and [Argo](https://github.com/argoproj/argo-workflows), [PMC](https://www.apache.org/foundation/glossary.html#PMC) member of [XGBoost](https://github.com/dmlc/xgboost) and [Apache MXNet](https://github.com/apache/mxnet), as well as author of numerous [open source projects](https://github.com/sponsors/terrytangyuan). He [authored](https://terrytangyuan.github.io/cv#publications) three machine learning books and several impactful publications. He's a [regular speaker](https://terrytangyuan.github.io/cv#talks) at various conferences and technical advisor, leader, and mentor at [several organizations](https://terrytangyuan.github.io/cv#services). 
 
-<p align="center">👉 Check out
-	<a href="https://github.com/sponsors/terrytangyuan">what he's working on</a> and follow him on <a href="https://twitter.com/TerryTangYuan">Twitter</a> and <a href="https://www.linkedin.com/in/terrytangyuan">LinkedIn</a> for updates!
-</p>
-<p align="center">🔔 <a href="https://calendly.com/chat-with-terry/">Schedule a time</a> to discuss open source and collaboration opportunities.</p>
+
