@@ -13,15 +13,14 @@
 - 💬 어떠한 것이든 문의해 주세요, 기꺼이 도움을 ;
 
 
-
 **My tech stack :**  
 - Backend web development (Java, Servlet/JSP)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
 - Oracle, MySQL
 - Portfolio
 
-**languages and tools :**
 
+**languages and tools :**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -32,6 +31,24 @@
 
 **Current Lecture :** 
 - 2022.07.27 ~ 이젠 컴퓨터 아카데미 풀스택 강의
+<br /><br />
+
+
+<br />
+
+
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   45 hrs 57 mins  ████████████████████████░   60 %
+JavaScript   1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+JSON         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+GraphQL      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
 
 ### hey there 
 <a href="https://www.instagram.com/abhisheknaiidu/">
@@ -43,27 +60,4 @@
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
-
-
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   45 hrs 57 mins  ████████████████████████░   95.94 %
-JavaScript   1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-JSON         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-GraphQL      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-```
-
-<!--END_SECTION:waka-->
 
