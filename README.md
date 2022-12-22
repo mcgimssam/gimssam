@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm Johnny</h1>
-<h3 align="center">A software engineer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm MCSSAM</h1>
+<p align="center">
+  Front-End & Back-End 풀스택 강의 훈련교사 엠씨쌤입니다.
+</p>
 
-## 💬 Ask me about
-- Backend web development (Python, Node.js, PHP)
-- Frontend web development (Vue.js)
-- Docker
-- Deep Learning and Machine Learning
-- Cloud Architecture
+## 💬 My tech stack
+- Backend web development (Java, Servlet/JSP)
+- Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
+- Oracle, MySQL
 - Design Patterns
-- Gardening (Bonsai enthusiast :evergreen_tree:)
 
-## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
-- Watch anime and TV shows
-- Read some manga
-- Play videogames
-- etc...
+## 💻  languages and tools
 
-## 💻 Current project
-- [financial-go](https://github.com/Jvillegasd/financial-go)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+## 📅 Current Lecture
+- 2022.07.27 ~ 이젠 컴퓨터 아카데미 풀스택 강의
 
 ## 📚 Learning
 - Platzi courses about Backend development Roadmap
@@ -30,7 +32,7 @@
   <img src="https://jvillegasd-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
 </a>
 
-<!-- <div id = "some_issues">
+<div id = "some_issues">
   <p>It is a little list of problems you can face while implementing this kind of stuff</p>
   <ul id = "problem_list">
     <li>
@@ -42,7 +44,7 @@
       https://stackoverflow.com/questions/13848039/svg-foreignobject-contents-do-not-display-unless-plain-text
     </li>
   </ul>
-</div> -->
+</div>
 
 ### hey there 
 <a href="https://www.instagram.com/abhisheknaiidu/">
