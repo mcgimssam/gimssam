@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm MCSSAM</h1>
-<p align="center">
+<h3 align="center">
   Front-End & Back-End 풀스택 강의 훈련교사 엠씨쌤입니다.
+</h3>
+<br /><br />
+<p>
+안녕하세요, 저는 [MC Kim](http://mcweb.co.kr/)입니다. 열정적인 풀 스택 웹 개발자이자 직업훈련교사입니다. 소프트웨어에 대한 나의 열정은 아이디어를 꿈꾸고 우아한 인터페이스로 실현하는 것입니다. 나는 내가 만드는 것의 경험, 아키텍처 및 코드 품질에 큰 관심을 기울입니다.
+
+저는 또한 오픈 소스 애호가이자 관리자입니다. 저는 오픈 소스 커뮤니티에서 많은 것을 배웠고 오픈 소스를 통해 어떻게 협업과 지식 공유가 이루어졌는지를 좋아합니다.
 </p>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 풀스택 IT 강의가 필요하세요? 의뢰해 주세요, [email](mailto:indopop@naver.com) :)
+- 💬 어떤한 것이든 문의해주세요, 기꺼이 도움을 ;
 
 ## 💬 My tech stack
 - Backend web development (Java, Servlet/JSP)
