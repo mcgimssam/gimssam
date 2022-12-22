@@ -11,16 +11,17 @@
   
 - 💼 IT 풀스택 강의가 필요하세요? 의뢰해 주세요, [email](mailto:indopop@naver.com) :)
 - 💬 어떠한 것이든 문의해 주세요, 기꺼이 도움을 ;
-
+<br>
 
 **My tech stack :**  
 - Backend web development (Java, Servlet/JSP)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
 - Oracle, MySQL
 - Portfolio
-
+<br>
 
 **languages and tools :**
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -28,6 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br>
 
 **Current Lecture :** 
 - 2022.07.27 ~ 이젠 컴퓨터 아카데미 풀스택 강의
@@ -35,20 +37,6 @@
 
 
 <br />
-
-
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   45 hrs 57 mins  ████████████████████████░   60 %
-JavaScript   1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-JSON         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-GraphQL      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-```
 
 ### hey there 
 <a href="https://www.instagram.com/abhisheknaiidu/">
