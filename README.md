@@ -12,13 +12,15 @@
 - 💼 IT 풀스택 강의가 필요하세요? 의뢰해 주세요, [email](mailto:indopop@naver.com) :)
 - 💬 어떠한 것이든 문의해 주세요, 기꺼이 도움을 ;
 
+
+
 **My tech stack :**  
 - Backend web development (Java, Servlet/JSP)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
 - Oracle, MySQL
 - Portfolio
 
-**languages and tools:**
+**languages and tools :**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -30,20 +32,6 @@
 
 **Current Lecture :** 
 - 2022.07.27 ~ 이젠 컴퓨터 아카데미 풀스택 강의
-
-<div id = "some_issues">
-  <p>It is a little list of problems you can face while implementing this kind of stuff</p>
-  <ul id = "problem_list">
-    <li>
-      Github tend to cache anonymized URL, so you should visit this link if you have problem with image cache.
-      https://docs.github.com/es/github/authenticating-to-github/about-anonymized-image-urls
-    </li>
-    <li>
-      When you wrap your HTML in SVG/foreignObject maybe nothing show up. You can solve this issue visiting this link.
-      https://stackoverflow.com/questions/13848039/svg-foreignobject-contents-do-not-display-unless-plain-text
-    </li>
-  </ul>
-</div>
 
 ### hey there 
 <a href="https://www.instagram.com/abhisheknaiidu/">
@@ -78,22 +66,4 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
 
