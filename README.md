@@ -10,7 +10,7 @@
 </p>
   
 - 💼 IT 풀스택 강의가 필요하세요? 의뢰해 주세요, [email](mailto:indopop@naver.com) :)
-- 💬 어떠한 것이든 문의해 주세요, 기꺼이 도움을 ;
+- 💬 무엇이든 , 기꺼이 도움을 ;
 <br>
 
 **My tech stack :**  
